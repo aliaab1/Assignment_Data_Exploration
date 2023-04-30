@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aliaabouatie/Downloads/BreastCancer%20Kopie/mlruns/0/047eb7a9101e41a399b8526775e85194/artifacts
+end_time: 1682885667481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 047eb7a9101e41a399b8526775e85194
+run_name: trusting-mink-377
+run_uuid: 047eb7a9101e41a399b8526775e85194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682885663089
+status: 3
+tags: []
+user_id: aliaabouatie

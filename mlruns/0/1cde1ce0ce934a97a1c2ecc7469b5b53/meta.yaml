@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aliaabouatie/Downloads/BreastCancer%20Kopie/mlruns/0/1cde1ce0ce934a97a1c2ecc7469b5b53/artifacts
+end_time: 1682891544816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cde1ce0ce934a97a1c2ecc7469b5b53
+run_name: intrigued-worm-458
+run_uuid: 1cde1ce0ce934a97a1c2ecc7469b5b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682891541597
+status: 3
+tags: []
+user_id: aliaabouatie

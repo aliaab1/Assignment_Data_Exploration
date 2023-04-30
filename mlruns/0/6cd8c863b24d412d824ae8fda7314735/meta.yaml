@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aliaabouatie/Downloads/BreastCancer%20Kopie/mlruns/0/6cd8c863b24d412d824ae8fda7314735/artifacts
+end_time: 1682891541592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cd8c863b24d412d824ae8fda7314735
+run_name: nosy-crow-420
+run_uuid: 6cd8c863b24d412d824ae8fda7314735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682891536678
+status: 3
+tags: []
+user_id: aliaabouatie
